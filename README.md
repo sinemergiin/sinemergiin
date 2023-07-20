@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **🔭 Web Geliştirme,Veri Analizi Ve Python**
 
-- 👨‍💻 I’m currently learning **Python,HTML,CSS.R Programlama**
+- 👨‍💻 I’m currently learning **Python,HTML,CSS,R Programlama**
 
 - 📝 I'm School **Ankara Medipol Üniversitesi | Yönetim Bilişim Sistemleri**
 
