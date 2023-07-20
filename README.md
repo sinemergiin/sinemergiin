@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently learning **Python,HTML,CSS.R Programlama**
 
-- 📫 How to reach me **sinemergin71@hoymail.com**
+- 📫 How to reach me **sinemergin71@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
