@@ -5,6 +5,8 @@
 
 - 👨‍💻 I’m currently learning **Python,HTML,CSS.R Programlama**
 
+- 📝 I'm School **Ankara Medipol Üniversitesi | Yönetim Bilişim Sistemleri**
+
 - 📫 How to reach me **sinemergin71@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
