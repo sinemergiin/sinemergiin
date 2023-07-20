@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinem</h1>
 <h3 align="center">Yönetim Bilişim Sistemleri Öğrencisi</h3>
 
-- 🔭 I’m currently working on ** Web Geliştirme,Veri Analizi Ve Python**
+- 🔭 I’m currently working on **Web Geliştirme,Veri Analizi Ve Python**
 
 - 👨‍💻 I’m currently learning **Python,HTML,CSS,R Programlama**
 
